@@ -1,0 +1,56 @@
+I Introduction
+	in a line magnets line up, on a plane, how arranged are they?
+	hard to answer,  N=3 triangle is tricky
+	special case of regular polygon going forward
+	goals/results:
+		equilibrium energy
+		normal modes+w for oscillations around equilibrium
+		dispersion curve
+		miscellany
+	simpler/other work described, implying independent validation for inspecting regular polygons
+II equilibrium and normal modes of oscillation
+	A potential energy of interaction
+		standard mu dot B interaction
+		eq1 sets it up in terms of indices of two dipoles, n and n'
+		angle's phi are taken relative the displacement vector
+		no relativity considered
+		starting with points along x-axis and increment uniformly along
+		eps_n is the angle deviation from equilibrium, which is tangent to the circle inscribing the polygon.
+		eq2 expressing displacement distance based on index
+		eq3 expressing phi in terms of deviations eps_n
+		eq4 raw potential expressions
+		eq5 power series of eq4 in terms of eps
+		1 equilibrium potential
+			eq6 taking advantage of symmetry to calculate one potential once
+			eq7 crafting the single potential, Z_N
+			eq8 the final Z_N, approaches rieman zeta at large N
+		2 potential energy terms that are linear in angles
+			establishing that when eps_n =0 all around, no torque
+			eq9 splitting up the derivative into two terms, going clockwise and counter clockwise
+			eq10 finding one term of the sum
+			eq11 simplifying the term
+			eq12 matching counterpart from the other direction, differs by a sign
+		3 Potential energy terms that are quadratic in angles
+			eq13 describing the 2nd order terms as a matrix
+			eq14 showing the elements are taylor series terms
+			eq15-16 explicitly calculating and stating that the matrix is highly symmetric
+			eq17 stating eigenvalue problem
+			eq18 taking a derivative of the unprimed eps to almost get an eigen value problem. The primed vs unprimed nature a bit of a flag for me
+			eq19 explictly showing the rrelationship between eigen value and frequency
+			eq20 defining a base frequency
+			starting to talk about symmetry find eigen vectors
+			eq21 transform matrix
+			eq22 stating eigenvectors for transform matrix, elements
+			using the shift matrix brings a constant term out front
+			since eq21 and eq14 commute, they have the same eigenvectors
+			eq23 the eigenvalues are the result of large sum
+				maybe the complex parts wash out because n-n' has equal amounts on both sides?
+				why is it a sum?
+					oh, it's just the explicit statement of vector transformation
+			eq24 substituting in to get the full form with rho and Z_N
+
+
+	B normal modes of oscillation
+	C Equilateral triangle and square arrays
+
+III Conclusions

@@ -1,0 +1,15 @@
+*set topic
+	candidate , advisor and supervisory committee
+	--topic, compare Perrin's group theory method to Stump's more conventional perturbative method, what would be different based on different interactions
+*written report of material
+*matching oral presentation + questions
+*fill out ICE form
+*distribute ICE form
+
+* five(5) references
+	"Magnets at the corners of polygons" (Stump, Pollack and Borysowicz)
+	"Group Theory and the Vibrating Polygon" Perrin
+
+
+neat things
+	Group theoretical analysis for MHD flow fields: a numerical result

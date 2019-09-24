@@ -1,0 +1,110 @@
+NAO=== not available online
+
+( TITLE-ABS-KEY ( spring )  AND  TITLE-ABS-KEY ( polygon ) )  AND  ( LIMIT-TO ( SUBJAREA ,  "ENGI" )  OR  LIMIT-TO ( SUBJAREA ,  "COMP" )  OR  LIMIT-TO ( SUBJAREA ,  "MATH" )  OR  LIMIT-TO ( SUBJAREA ,  "PHYS" )  OR  LIMIT-TO ( SUBJAREA ,  "MATE" ) )
+
+
+Group theory and the vibrating polygon (1972, NAO)
+	the complimentary partner to the magnetic polygon paper
+
+Zero eigenfrequencies in the vibrating polygon
+	exploring some of the unstable states associated with vibrating polygon
+
+Vibrations of rotating circumferentially periodic structures (1981, NAO)
+	fairly general treatment, but special case for regular polygon, 0-frequency mode transforms into non-0 frequency mode after some critical rotational frequency
+
+Equilibrium Paths of Polygonally Elastic Structures
+	???
+
+
+TITLE-ABS-KEY ( continuous  AND ground  AND state )  AND  ( LIMIT-TO ( SUBJAREA ,  "PHYS" )  OR  LIMIT-TO ( SUBJAREA ,  "MATH" ) )
+
+Freezing phase transition in a fractal potential
+	over a finite region of space a fractal potential is applied, a non-zero temperature ground state is observed? possibly non-physical since at some point a fractal potential would cave
+
+Local entropies across the Mott transition in an exactly solvable model
+	some kind of Solid state paper involving coupled states?
+
+Ground state solutions for a semilinear elliptic problem with critical-subcritical growth
+	existence proof for semilinear elliptic problems? might need some definitions
+
+Existence and concentration behavior of solutions for a class of quasilinear elliptic equations with critical growth
+	more treatments in special families of equations? Advances in non-linear analysis might be a neat journal to narrow search
+
+TITLE-ABS-KEY ( degenerate  AND equilibria )  AND  ( LIMIT-TO ( SUBJAREA ,  "PHYS" )  OR  LIMIT-TO ( SUBJAREA ,  "MATH" ) )
+
+Quasi-Periodic Solutions for Differential Equations with an Elliptic-Type Degenerate Equilibrium Point Under Small Perturbations
+	solutions for some differential equations that may be applicable?
+
+The general equilibria of a spinning satellite in a circular orbit
+	assuming very general conditions, apparently only the fairly conventional conditions are stable satellite behavior.
+
+On the stability of poincaré periodic solutions of harmiltonian systems
+	general stability conditions for 2 DOF systems. (NAO)
+
+Periodic solutions of the N-body problem
+	examining the N-body problem with several different expansion parameters
+
+TITLE-ABS-KEY(degenerate equilibria) AND ( LIMIT-TO ( SUBJAREA,"PHYS" ) OR LIMIT-TO ( SUBJAREA,"MATH" ) )  AND NOT(TITLE-ABS-KEY(quantum)) AND NOT(TITLE-ABS-KEY(statistical))
+
+Hopf-Zero singularities truly unfold chaos
+	https://arxiv.org/abs/1903.09023
+	shilnikov bifurcations?
+
+Generic Stability Properties of Periodic Points
+	a classification of periodic points? stability and other questions
+
+
+TITLE-ABS-KEY ( classical  AND degenerate  AND equilibria )  AND  ( EXCLUDE ( SUBJAREA ,  "MATE" )  OR  EXCLUDE ( SUBJAREA ,  "CHEM" )  OR  EXCLUDE ( SUBJAREA ,  "EART" )  OR  EXCLUDE ( SUBJAREA ,  "CENG" )  OR  EXCLUDE ( SUBJAREA ,  "AGRI" )  OR  EXCLUDE ( SUBJAREA ,  "BIOC" ) )
+
+Dynamics of a Lorenz-type multistable hyperchaotic system (2018)
+	tweaks lorenz system to give it a curve of equilibria, observes numbers of behaviors. ***
+
+Ground states of stealthy hyperuniform potentials: I. Entropically favored configurations
+	a stat mech paper exploiting new frameworks to double check some numerical stuff, kinda wanna read it more thoroughly just to figure out what a stealthy potential is
+
+A new Lorenz-type hyperchaotic system with a curve of equilibria (2015)
+	very very similar abstract to the 2018 one, still, of interest
+
+Lorenz equations part I: Existence and nonexistence of homoclinic orbits
+	an analysis of the parameter space and which ones lead to chaos/homoclinic orbits
+
+A shooting approach to chaos in the Lorenz equations
+	interested in it for the numerical method, never taken the time to try shooting approaches
+
+Simple chaotic flows with a line equilibrium
+	looking for systems with line equilibria
+
+TITLE-ABS-KEY ( wavelet  AND pitch  AND detection )
+
+Performance evaluation of a wavelet-based pitch detection scheme
+	claims auto-correlation is best for it's metrics, followed by wavelet and then cepstral techniques
+
+Pitch estimation of speech and music sound based on multi-scale product with auditory feature extraction
+	including a model of how the ear  works improves pith detection results? should compare what other techniques it's used against. might be interested in noise model
+
+Contribution to the multipitch estimation by multi-scale product analysis
+	extracts two pitches, compares results with other methods (might be more useful)
+
+A corroborative study on improving pitch determination by time–frequency cepstrum decomposition using wavelets
+	claims a wavelet packet specialized for pitches
+
+Multi-pitch estimation based on multi-scale product analysis, improved comb filter and dynamic programming
+	yet another approach, also being tested on speech vs instruments...
+
+02019/09/16
+TITLE-ABS-KEY%28"group+theory"+physical+problems
+Quantification of Symmetry
+	defines a 0-1 value of symmetry that a hamiltonian has, claims to be good for inspecting "extended group" and since  DoS isn't always singly valued, also identifies some symmetry breaking
+
+Particle on a Ring Spectroscopic Selection Rules Determined by Group Theory
+	Presents a symmetry analysis of particle in a ring, shows how valid transitions occur
+
+Complete spectrum of the infinite- U Hubbard ring using group theory
+	replicating previous results in one place. A chemistry problem I am too unfamiliar with the nomenclature to meaningfully summarize
+
+Translational transformations of tensor solutions of the helmholtz equation and their application to describe interactions in force fields of various physical nature
+	given a tensor solution to the helmholtz equation, this paper describes translation transformations.
+	owTranslation is meaningless in free space, so this must refer to ways to shift with regards to boundary conditions?
+
+interpretation of the spectra of polyatomic molecules by use of group theory
+	provides some of the basic background for using group theory for intepretation.

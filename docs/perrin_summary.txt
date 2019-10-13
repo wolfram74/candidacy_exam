@@ -1,0 +1,57 @@
+1: introduction
+	because group theory is useful in quantum vibrations, maybe it'll be useful in classical vibrations
+	often group theory is qualitatively useful, here we get some juicy quantitative radness
+	while this is a new solution, it's more the technique we're interested in
+	citation 4 for small oscillations
+2: general formulation
+	n masses with n springs in an n-gon
+	displacement is fully general, x-y, -> eta 2n dimensional vector
+		note: odds are x's, even's y's, coordinate vector is 1-indexed
+	eq1 standard kinetic energy, slightly wibbly potential energy
+		why the trig functions?
+			kind of see they force things to be exclusively compressive
+			p=1 just on the x-axis, movement along y has no contribution
+			I'm sort of seeing what they're getting at, not super thrilled
+	eq2 taking the sums and making em vectors
+	eq3 taking the double sum making em a matrix operation
+	eq4 the various terms for the potential expanded out
+		some terms seem more complicated because they include two sides of the interaction xp appears as itself, and as an xp+1 for the previous xp.
+	eq5 the result of making the lagrangian and eqn of motion off screen
+	eq6 establishing what the eigenvalues would be
+	eq7 simply stating the eigenvalue problem
+	goes into reminding the audience about change of basis so the spring matrix is /just/ eigenvalues
+	eq8 recasting T and V in the preferred coordinates
+3:symmetry considerations
+	while equations present do provide enough information to find the eigenvalues, more is available to use
+	some elaboration on what symmetry means in this context
+	eq9 linear transformation definition of symmetry
+	some of the properties and changes the transformation S must cause
+	V and V' must be identical up to relabeling?
+	eq10 S and V thus are commutative
+	some claims about how eigen vectors with the same eigen value form a space that transforms like an irreducible representation of a group
+4: The symmetry groupf D_n of the regular polygon
+	group in question is the dihedral group
+	R is the smallest rotation (2pi/n)
+	E is the identity
+	P is inversion/mirroring
+5: The representation D
+	table 1 character table for Deven group
+	table 2 character table for Dodd group
+	talking about representations and equality under transformations
+
+	eq11
+	eq12
+	eq13
+	eq14
+	eq15
+6: The case of n odd
+	eq16
+	eq17
+	table 3
+7: the case of n Even
+	table 4
+8: Discussion
+
+TO LOOK UP
+	irreducible representation of a group
+	character table

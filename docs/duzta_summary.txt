@@ -1,0 +1,31 @@
+1: introduction
+	galileian equivalence
+	kind of a big jump from "math let's us do physics" to "constant acceleration is thus"
+	eq01 v(t)
+	eq02 x(t)
+2: group theoretical approach
+	justifying group theory in physics, may check references for better paper, maybe?
+	u is some point in phase space U
+	eq03 group element phi_t acting on point u_t0 definied
+	eq04 kind of feels like putting the cart before the horse here, just restating eq1,2
+	eq05 group operation established
+	eq06 identity property claimed to be non-trivial
+	eq07 then goes and shows it, hand waving a bit along the way
+	how to interpret negative time operations ruminated on
+	2.1: generalization to project motion
+		adding horizontal motion to the picture
+		eq08 yep
+3: Group orbit, physical orbit and unphysical solutions
+	eq09 orbit being the set of points achievable by operations on the group
+	orbits are either identical or completely disjoint
+	physicality is defined as whether or not we care about the times involved
+	the times are a property only of labels, so negative time could be perfectly plausible
+
+4:
+	eq10 constant jerk equations
+	eq11 demonstrating that phi_t is not trivially invertible like in constant acceleration case.
+	that fact should be gone into more detail, elaborate on what about the 2nd order differential equation lends it to this effect, but not the 3rd. :grumble grumble:
+
+future reading
+	SU3 and 3D isotropic harmonic oscillator, fradkin Dm
+	bhattacharjee jump phenomenon in nonlinear oscillators using renormalization group arguments

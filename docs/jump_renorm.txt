@@ -1,0 +1,17 @@
+Rough impressions:
+	an interesting technique, but not seeing how it's a group theory application
+I: introduction
+	claims to be able to analyze the jump discontinuity with group symmetries
+	particularly the CD leg in figure 1
+	jumps occur when frequency of driving is shifting in time.
+II: quartic oscillator: comparitive study in methods
+	instance of standard SHO with a quartic term at scale lambda
+	eq1 potential energy
+	eq2 equation of motion
+	eq3 total energy and peak energy
+	eq4 vel(x)
+	eq5-7 finding period vs amplitude
+	eq8-10 doing perturbative analysis
+	eq11 identifying divergences that we want to eliminate, namely set a pair of cosines to 0?
+	eq15-19 sort of explaining multiple time scale analysis
+

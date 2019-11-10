@@ -53,5 +53,21 @@
 8: Discussion
 
 TO LOOK UP
+	group action is kind of like a function that
+	http://mathworld.wolfram.com/GroupAction.html
+		takes elements of a group that
+			can act on a set
+			and when acting on the set maintain group properties
+		and returns however the element permutes the set
+
 	irreducible representation of a group
+		http://mathworld.wolfram.com/IrreducibleRepresentation.html
+		particular kind of representation of group
+	representation of a group is
+		a way of
+
 	character table
+	http://mathworld.wolfram.com/CharacterTable.html
+
+	direct sums
+		http://mathworld.wolfram.com/DirectSum.html
